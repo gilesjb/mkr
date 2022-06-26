@@ -1,0 +1,14 @@
+
+mkr
+mkr.ant
+mkr.ant.taskdefs
+mkr.ant.taskdefs.condition
+mkr.ant.taskdefs.email
+mkr.ant.types
+mkr.ant.types.resources
+mkr.ant.types.selectors
+mkr.ant.types.selectors.modifiedselector
+mkr.ant.types.spi
+org.copalis.mkr
+org.copalis.mkr.ant
+org.copalis.mkr.jdk
